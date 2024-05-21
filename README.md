@@ -41,7 +41,9 @@ __We have *.img* file attachment and when we open the file, something happens:__
 * __Process Tree:__
 
 ![Screenshot 2024-05-21 171645](https://github.com/Wortexz/sneaky-bat/assets/26935578/4e11f2d0-5cb9-49c1-86d0-0d4d487f1119)
-![Screenshot 2024-05-21 172420](https://github.com/Wortexz/sneaky-bat/assets/26935578/318eff7a-8eea-4a00-90df-e69dd68f1d6c)
+![Screenshot 2024-05-21 172804](https://github.com/Wortexz/sneaky-bat/assets/26935578/f63aea51-1bb7-45d1-9f5f-4d5c174eead9)
+![Screenshot 2024-05-21 172726](https://github.com/Wortexz/sneaky-bat/assets/26935578/4087adef-8fb0-4950-bb38-ba78ba1ecd72)
+
 
 
 
