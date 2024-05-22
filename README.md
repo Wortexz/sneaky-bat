@@ -3,7 +3,6 @@
 ## Another targeted attack against GOV & Business organizations in LT
 
 It all started with a phishing email from a hacked email account or email server.        
-Unfortunately we do not have an email sample - only the attachment.    
 
 **Update 2024-05-22 - we received email sample:**    
 
