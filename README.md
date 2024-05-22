@@ -1,6 +1,6 @@
 # sneaky-bat - quick analysis
 
-## Another targeted attack against GOV organizations in LT
+## Another targeted attack against GOV & Business organizations in LT
 
 It all started with a phishing email from a hacked email account or maybe hacked email server.    
 Unfortunately we do not have an email sample - only the attachment.    
