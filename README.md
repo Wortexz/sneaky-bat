@@ -33,6 +33,10 @@ __We have *.img* file attachment and when we open the file, something happens:__
 
 ![Screenshot 2024-05-22 132936](https://github.com/Wortexz/sneaky-bat/assets/26935578/eb3e3bd2-fce0-471e-9b9e-29e5daaee0bf)
 
+* __Dumped .exe on VirusTotal:__ 2024-05-22 10:42:05 UTC
+
+![Screenshot 2024-05-22 134322](https://github.com/Wortexz/sneaky-bat/assets/26935578/2508a972-3217-47ab-8188-3fce60ec5748)
+
 * __Seen only on a few devices:__    
 
 ![Screenshot 2024-05-21 162656](https://github.com/Wortexz/sneaky-bat/assets/26935578/d32aeb15-2dd3-4a1e-9e9b-8a01b4b51a54)
