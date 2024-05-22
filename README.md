@@ -20,7 +20,7 @@ __We have *.img* file attachment and when we open the file, something happens:__
 ## Malware analysis     
 * __Files names:__ *doc023561861500.bat / DOC02356.BAT / file.exe*    
 * __.BAT file SHA-256:__ 3dad11bcdd07ce0d3431ff24364eddac1e4dec7b72f806ed1c6cff7d876524a1
-* * __ISO image (.img) SHA-256:__ 6dddaa0706cbc843659594b28a5da0ef1664331ad611c42010b991d24b67b6bd    
+* __ISO image (.img) SHA-256:__ 6dddaa0706cbc843659594b28a5da0ef1664331ad611c42010b991d24b67b6bd    
 
 * __File Type:__ Win32 EXE    
 * __File entropy is quite unique:__ NSIS Installer (80.1%) & unique code (19.2%)    
