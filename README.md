@@ -25,7 +25,14 @@ __We have *.img* file attachment and when we open the file, something happens:__
 * __File Type:__ Win32 EXE    
 * __File entropy is quite unique:__ NSIS Installer (80.1%) & unique code (19.2%)    
 * __Malware family:__ GuLoader - fileless shellcode    
-* __Obfuscation:__ XOR    
+* __Obfuscation:__ XOR
+* __Language:__ C/C++
+* __Packed:__ No
+* __Timestamp:__ Wed Dec 25 05:01:32 2013 (manipulated timestamp)
+* __Dumped .exe:__
+
+![Screenshot 2024-05-22 132936](https://github.com/Wortexz/sneaky-bat/assets/26935578/eb3e3bd2-fce0-471e-9b9e-29e5daaee0bf)
+
 * __Seen only on a few devices:__    
 
 ![Screenshot 2024-05-21 162656](https://github.com/Wortexz/sneaky-bat/assets/26935578/d32aeb15-2dd3-4a1e-9e9b-8a01b4b51a54)
