@@ -2,8 +2,16 @@
 
 ## Another targeted attack against GOV & Business organizations in LT
 
-It all started with a phishing email from a hacked email account or maybe hacked email server.    
+It all started with a phishing email from a hacked email account or email server.        
 Unfortunately we do not have an email sample - only the attachment.    
+
+**Update 2024-05-22 - we received email sample:**    
+
+![Screenshot 2024-05-22 150231](https://github.com/Wortexz/sneaky-bat/assets/26935578/21740b53-e503-4de0-bf13-d462ea72d448)
+
+__Sender:__ ledrichproject[.]it    
+
+![Screenshot 2024-05-22 150852](https://github.com/Wortexz/sneaky-bat/assets/26935578/10c40e25-6b29-4ec3-bd15-8dee87e39524)
 
 ## Email attachment & Malware analysis
 __We have *.img* file attachment and when we open the file, something happens:__    
