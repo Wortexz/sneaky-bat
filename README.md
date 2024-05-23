@@ -6,7 +6,7 @@ It all started with a phishing email from a hacked email account or email server
 
 **Update 2024-05-22 - we received email sample:**    
 
-![Screenshot 2024-05-22 150231](https://github.com/Wortexz/sneaky-bat/assets/26935578/21740b53-e503-4de0-bf13-d462ea72d448)
+![Screenshot 2024-05-23 161830](https://github.com/Wortexz/sneaky-bat/assets/26935578/52b8a024-5719-4f90-84ab-1a0024b9f66c)
 
 __Sender:__ ledrichproject[.]it    
 
